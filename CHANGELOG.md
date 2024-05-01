@@ -7,11 +7,13 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 ## [0.1.4]
 
+### Changed
+
+- Replace `C#` debug screenshot with new one that does not show the taskbar
+
 ### Fixed
 
-- Move break in between normal and debug screenshots to display
-  break correctly
-- Add new `csharp-debug.png` without taskbar
+- Correct break between normal and debug screenshots
 
 ## [0.1.3]
 
