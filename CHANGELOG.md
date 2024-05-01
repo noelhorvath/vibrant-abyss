@@ -2,13 +2,28 @@
 
 All notable changes to `vibrant-abyss` crate will be documented in this file.
 
-The format is based on [Keep a Changelog], and this project adheres to [Semantic Versioning].
+The format is based on [Keep a Changelog], and this project adheres to
+[Semantic Versioning].
 
 ## [0.1.2]
 
-- Remove unnecessary line under `License` section in `README.md`
+### Changed
+
+- Add missing space before extension install command in `MANUAL.md`
+- Rename change label of marketplace badge to `Version` from
+  `Visual Studio Marketplace`
+
+### Fixed
+
+- Correct path to `icon.png` in `MANUAL.md`
+
+### Removed
+
+- Remove unnecessary line of text under `License` section
 
 ## [0.1.1]
+
+### Changed
 
 - Update downloads badge in `README.md` to display installs
 
