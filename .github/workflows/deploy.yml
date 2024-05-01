@@ -1,0 +1,56 @@
+name: Deploy new release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+env:
+  EXT_FILE: ${{ github.event.repository.name }}.vsix
+
+jobs:
+  release:
+    name: Create new release
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Create new release
+        uses: ncipollo/release-action@v1
+
+  deploy:
+    name: Deploy
+    needs: release
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      - name: Enable Corepack
+        run: corepack enable
+      - name: Install dependencies
+        run: yarn install
+      - name: Publish
+        run: yarn publish
+        env:
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+      - name: Build
+        run: yarn build
+      - name: Update release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          makeLatest: true
+          artifacts: "./${{ env.EXT_FILE }}"
+      - name: Update changelog
+        uses: dropseed/changerelease@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          changelog: CHANGELOG.md
