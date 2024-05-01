@@ -34,13 +34,18 @@ on high contrast screens.
 
 ### Rust
 
+![Rust code in editor](assets/screenshots/rust.png)
 
-![Rust code in editor](assets/screenshots/rust.png)<br>
+<br>
+
 ![Debugging rust code](assets/screenshots/rust-debug.png)
 
 ### C#
 
-![C# code in editor](assets/screenshots/csharp.png)<br>
+![C# code in editor](assets/screenshots/csharp.png)
+
+<br>
+
 ![Debugging C# code](assets/screenshots/csharp-debug.png)
 
 ## Installation
