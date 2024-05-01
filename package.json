@@ -1,0 +1,46 @@
+{
+  "name": "vibrant-abyss",
+  "publisher": "noelhorvath",
+  "displayName": "Vibrant Abyss",
+  "description": "Pitch black theme with vibrant colors tailored for Rust and C#",
+  "version": "0.1.0",
+  "icon": "assets/icon.png",
+  "keywords": [
+    "color theme",
+    "black",
+    "dark",
+    "pitch black",
+    "theme",
+    "vibrant"
+  ],
+  "license": "UNLICENSED",
+  "pricing": "Free",
+  "readme": "README.md",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vibrant Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibrant-abyss-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noelhorvath/vibrant-abyss"
+  },
+  "packageManager": "yarn@4.1.1",
+  "scripts": {
+    "build": "vsce package -o ./vibrant-abyss.vsix --no-dependencies --yarn",
+    "publish": "vsce publish --no-dependencies --yarn"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.26.0"
+  }
+}
