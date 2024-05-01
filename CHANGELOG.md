@@ -5,6 +5,25 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.1.3]
+
+### Added
+
+- New screenshots of `C#` code in themed editor
+- Missing `Table of contents` header after badges in `README.md`
+
+### Changed
+
+- Display screenshots under correct subsections in `README.md`
+- Update and rename `Installation methods` section to `Installation` in
+  `README.md`
+- Update last section name in `MANUAL.md`
+
+### Fixed
+
+- Use installation command with correct file name in `MANUAL.md`
+- Use github links for `LICENSE` and `MANUAL` in `README.md`
+
 ## [0.1.2]
 
 ### Changed
