@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 ### Added
 
 - New screenshots of `C#` code in themed editor
-- Missing `Table of contents` header after badges in `README.md`
+- Missing `Table of contents` heading after badges in `README.md`
 
 ### Changed
 
@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 ### Fixed
 
+- Correct headings in `README.md`
 - Use installation command with correct file name in `MANUAL.md`
 - Use github links for `LICENSE` and `MANUAL` in `README.md`
 
@@ -51,10 +52,11 @@ The format is based on [Keep a Changelog], and this project adheres to
 - Initial release
 
 <!-- Links -->
-[keep a changelog]: https://keepachangelog.com/en/1.0.0/
-[semantic versioning]: https://semver.org/spec/v2.0.0.html
+[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/
+[Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
+[0.1.3]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.3
 [0.1.2]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.2
 [0.1.1]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.1
 [0.1.0]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.0
