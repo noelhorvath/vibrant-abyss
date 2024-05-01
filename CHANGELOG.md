@@ -5,6 +5,14 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.1.4]
+
+### Fixed
+
+- Move break in between normal and debug screenshots to display
+  break correctly
+- Add new `csharp-debug.png` without taskbar
+
 ## [0.1.3]
 
 ### Added
@@ -56,6 +64,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
+[0.1.4]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.4
 [0.1.3]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.3
 [0.1.2]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.2
 [0.1.1]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.1
