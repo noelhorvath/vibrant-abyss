@@ -44,7 +44,6 @@ on high contrast screens.
 
 ## License
 
-asd
 This project is unlicensed. You are free to use, modify, and distribute the
 code without any restrictions. Refer to the [LICENSE] file for more details.
 
