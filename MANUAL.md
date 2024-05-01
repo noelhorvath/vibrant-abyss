@@ -25,8 +25,8 @@
 * Changes to the theme file are automatically applied to the
   `Extension Development Host` window.
 
-## Building & Installation
+## Build & Install
 
 * Run `yarn install` to install the project dependencies.
 * Create an extension package with `yarn build`.
-* Install the generated `.vsix` file via `code --install-extension my-extension.vsix`.
+* Install the generated `.vsix` file via `code --install-extension vibrant-abyss.vsix`.
