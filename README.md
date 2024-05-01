@@ -30,19 +30,20 @@ on high contrast screens.
     - `C#`
     - `Rust`
 
-# Screenshots
+## Screenshots
 
-## Rust
+### Rust
+
 
 ![Rust code in editor](assets/screenshots/rust.png)<br>
 ![Debugging rust code](assets/screenshots/rust-debug.png)
 
-## C#
+### C#
 
 ![C# code in editor](assets/screenshots/csharp.png)<br>
 ![Debugging C# code](assets/screenshots/csharp-debug.png)
 
-# Installation
+## Installation
 
 You can obtain the theme extension in the following ways:
 
