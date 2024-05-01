@@ -12,7 +12,7 @@
   theme file and specifies the base theme of the theme.
 * `themes/vibrant-abyss-color-theme.json` - the color theme definition file specified
   in `package.json`.
-* `assets/images/icon.img` - the icon of the extension specified in `package.json`.
+* `assets/icon.img` - the icon of the extension specified in `package.json`.
 
 ## Running the extension
 
@@ -29,4 +29,4 @@
 
 * Run `yarn install` to install the project dependencies.
 * Create an extension package with `yarn build`.
-* Install the generated `.vsix` file via`code --install-extension my-extension.vsix`.
+* Install the generated `.vsix` file via `code --install-extension my-extension.vsix`.
