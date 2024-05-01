@@ -1,10 +1,10 @@
 # Vibrant Abyss
 
-[![Visual Studio Marketplace]][Marketplace]
+[![Version]][Marketplace]
 [![Installs]][Marketplace]
 [![Rating]][Marketplace]
 
-[Visual Studio Marketplace]: https://img.shields.io/visual-studio-marketplace/v/noelhorvath.vibrant-abyss?style=for-the-badge&label=Visual%20Studio%20Marketplace
+[Version]: https://img.shields.io/visual-studio-marketplace/v/noelhorvath.vibrant-abyss?style=for-the-badge&label=Version
 [Installs]: https://img.shields.io/visual-studio-marketplace/i/noelhorvath.vibrant-abyss?style=for-the-badge&label=Installs
 [Rating]: https://img.shields.io/visual-studio-marketplace/r/noelhorvath.vibrant-abyss?style=for-the-badge
 
