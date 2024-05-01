@@ -1,8 +1,8 @@
 # Vibrant Abyss
 
-[![Visual Studio Marketplace]]([Marketplace])
-[![Downloads]]([Marketplace])
-[![Rating]]([Marketplace])
+[![Visual Studio Marketplace]][Marketplace]
+[![Downloads]][Marketplace]
+[![Rating]][Marketplace]
 
 [Visual Studio Marketplace]: https://img.shields.io/visual-studio-marketplace/v/noelhorvath.vibrant-abyss?style=for-the-badge&label=Visual%20Studio%20Marketplace
 [Downloads]: https://img.shields.io/visual-studio-marketplace/d/noelhorvath.vibrant-abyss?style=for-the-badge&label=Downloads
@@ -39,7 +39,7 @@ on high contrast screens.
 # Installation methods
 
 * Using [extension file]
-* From [Visual Studio Marketplace]([Marketplace])
+* From [Visual Studio Marketplace][Marketplace]
 * [Building from source][Manual]
 
 ## License
