@@ -1,8 +1,8 @@
 # Development manual
 
 * [Source](#source)
-* [Running the extension](#running-the-extension)
-* [Building & Installation](#building--installation)
+* [Debug](#debug)
+* [Build & Install](#build--install)
 
 ## Source
 
@@ -14,7 +14,7 @@
   in `package.json`.
 * `assets/icon.img` - the icon of the extension specified in `package.json`.
 
-## Running the extension
+## Debug
 
 * Press `F5` to open a new window with the extension loaded.
 * Open `File > Preferences > Color Themes` and pick the color theme.
