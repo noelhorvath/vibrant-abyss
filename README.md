@@ -54,6 +54,8 @@ You can obtain the theme extension in the following ways:
 
 * Download and install one of the extension files from [Releases]
 * Install from [Visual Studio Marketplace][Marketplace]
+* Execute `ext install noelhorvath.vibrant-abyss` in the `Command Center`
+  (`Ctrl + P`)
 * [Build from source][Manual]
 
 ## License
