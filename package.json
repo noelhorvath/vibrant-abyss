@@ -3,7 +3,7 @@
   "publisher": "noelhorvath",
   "displayName": "Vibrant Abyss",
   "description": "Pitch black theme with vibrant colors tailored for Rust and C#",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "icon": "assets/icon.png",
   "keywords": [
     "color theme",
