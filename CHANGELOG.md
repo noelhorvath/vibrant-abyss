@@ -5,6 +5,23 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.1.5]
+
+### Added
+
+- List `Command Center` installation method in `Installation` section of
+  `README.md`
+- Specify schema type for `deploy.yml` in `settings.json`
+
+### Changed
+
+- Correct headings in `MANUAL.md`
+- Format `MANUAL.md`
+- Include `.md` in `.editorconfig`
+- Reduced extension size by increasing compression of `.png` asset files
+- Replace `rust.png` and `rust-debug.png` with better screenshots
+- Use strings with double instead of single quotes in `deploy.yml`
+
 ## [0.1.4]
 
 ### Changed
@@ -62,10 +79,12 @@ The format is based on [Keep a Changelog], and this project adheres to
 - Initial release
 
 <!-- Links -->
+
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0/
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
+
 [0.1.4]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.4
 [0.1.3]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.3
 [0.1.2]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.2
