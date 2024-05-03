@@ -45,6 +45,8 @@
     "editorInfo.foreground": "#00000000",
     "editorRuler.foreground": "#222222",
     "editorWarning.foreground": "#000000",
+    // Editor suggest widget
+    "editorSuggestWidget.focusHighlightForeground": "#2996DE70",
     // Editor text selection
     "editor.selectionBackground": "#2996DE70",
     "editor.selectionHighlightBorder": "#FFEE00",
