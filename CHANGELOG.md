@@ -5,6 +5,21 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.1.6]
+
+### Added
+
+- Change background color of an item to `#2996DE70` when selected in `Suggest Widget`
+
+### Changed
+
+- Update `.gitignore`
+- Load images through repository URL in `.md` files
+
+### Fixed
+
+- Reduce extension size by `~160%` with `.vscodeignore`
+
 ## [0.1.5]
 
 ### Added
@@ -85,7 +100,8 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 <!-- Versions -->
 
-[0.1.4]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.4
+[0.1.6]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.6
+[0.1.5]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.5
 [0.1.3]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.3
 [0.1.2]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.2
 [0.1.1]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.1
