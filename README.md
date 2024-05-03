@@ -34,19 +34,19 @@ on high contrast screens.
 
 ### Rust
 
-![Rust code in editor](assets/screenshots/rust.png)
+![Rust code in editor](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust.png)
 
 <br>
 
-![Debugging rust code](assets/screenshots/rust-debug.png)
+![Debugging rust code](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust-debug.png)
 
 ### C#
 
-![C# code in editor](assets/screenshots/csharp.png)
+![C# code in editor](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/csharp.png)
 
 <br>
 
-![Debugging C# code](assets/screenshots/csharp-debug.png)
+![Debugging C# code](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/csharp-debug.png)
 
 ## Installation
 
