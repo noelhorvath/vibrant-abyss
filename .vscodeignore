@@ -5,7 +5,6 @@
 .vscode
 .pnp.*
 *.vsix
-assets/screenshots
 MANUAL.md
 yarn.lock
 CHANGELOG.md
