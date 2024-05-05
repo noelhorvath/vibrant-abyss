@@ -5,6 +5,19 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.1.8]
+
+## Added
+
+- Add new customization for `Suggest Widget`
+  - Set background and border colors to `#000000`
+  - Set highlight foreground color to `#4EC1FB`
+  - Set selected background color to transparent (`#00000000`)
+
+## Changed
+
+- Set `Suggest Widget` focus highlight foreground color to `"#9CDCFE"` from `#2996DE70`
+
 ## [0.1.7]
 
 ### Fixed
@@ -15,7 +28,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 ### Added
 
-- Change background color of an item to `#2996DE70` when selected in `Suggest Widget`
+- Change foreground color of an item to `#2996DE70` when selected in `Suggest Widget`
 
 ### Changed
 
@@ -106,6 +119,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 <!-- Versions -->
 
+[0.1.8]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.8
 [0.1.7]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.7
 [0.1.6]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.6
 [0.1.5]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.5
