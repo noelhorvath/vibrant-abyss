@@ -135,7 +135,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 <!-- Versions -->
 
-[0.2.0]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.1
+[0.2.1]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.1
 [0.2.0]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.0
 [0.1.8]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.8
 [0.1.7]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.7
