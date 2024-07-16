@@ -5,6 +5,12 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.2.1]
+
+## Fixed
+
+- Remove extra character from line start in `README.md`
+
 ## [0.2.0]
 
 ## Changed

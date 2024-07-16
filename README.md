@@ -35,7 +35,7 @@ on high contrast screens.
 ### Rust
 
 ![Rust code in editor](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust.png?raw=true)
-/
+
 <br>
 
 ![Debugging rust code](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust-debug.png?raw=true)
