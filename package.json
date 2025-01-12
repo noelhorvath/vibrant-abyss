@@ -3,7 +3,7 @@
   "publisher": "noelhorvath",
   "displayName": "Vibrant Abyss",
   "description": "Pitch black theme with vibrant colors tailored for Rust and C#",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "icon": "assets/icon.png",
   "keywords": [
     "color theme",
@@ -41,6 +41,6 @@
     "publish": "vsce publish --no-dependencies --yarn"
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.26.0"
+    "@vscode/vsce": "^3.2"
   }
 }

@@ -5,6 +5,16 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.2.3]
+
+## Added
+
+- Set foreground color for `const` generic parameters (Rust)
+
+## Changed
+
+- Update `vscode/vsce` dependency to latest version
+
 ## [0.2.1]
 
 ## Fixed
