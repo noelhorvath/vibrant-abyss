@@ -578,7 +578,10 @@
       }
     },
     {
-      "scope": "variable.other.constant",
+      "scope": [
+        "constant.other.caps.rust",
+        "variable.other.constant",
+      ],
       "settings": {
         "foreground": "#0DF8FC"
       },
