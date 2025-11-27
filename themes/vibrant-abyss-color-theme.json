@@ -14,6 +14,12 @@
     "commandCenter.foreground": "#BBBBBB",
     "commandCenter.inactiveBorder": "#000000",
     "commandCenter.inactiveForeground": "#CCCCCC",
+    // Debug console
+    "debugConsole.infoForeground": "#5EC7FF",
+    "debugConsole.warningForeground": "#E7D427",
+    "debugConsole.errorForeground": "#FF6439",
+    "debugConsole.sourceForeground": "#D4D4D4",
+    "debugConsoleInputIcon.foreground": "#5EC7FF",
     // Debug tokens
     "debugTokenExpression.boolean": "#5EC7FF",
     "debugTokenExpression.error": "#FF6439",

@@ -5,42 +5,53 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.2.4]
+
+### Added
+
+- Add customization for `Debug Console`
+
+### Changed
+
+- Update dev dependency `@vscode/vsce` to `3.7.1`
+- Update script commands in `package.json`
+
 ## [0.2.3]
 
-## Added
+### Added
 
 - Set foreground color for `const` generic parameters (Rust)
 
-## Changed
+### Changed
 
 - Update `vscode/vsce` dependency to latest version
 
 ## [0.2.1]
 
-## Fixed
+### Fixed
 
 - Remove extra character from line start in `README.md`
 
 ## [0.2.0]
 
-## Changed
+### Changed
 
 - Add `assets/screenshots` to `.vscodeignore`
 
-## Fixed
+### Fixed
 
 - Reduce extension size by loading screenshots as raw images from repository in `README.md`
 
 ## [0.1.8]
 
-## Added
+### Added
 
 - Add new customization for `Suggest Widget`
   - Set background and border colors to `#000000`
   - Set highlight foreground color to `#4EC1FB`
   - Set selected background color to transparent (`#00000000`)
 
-## Changed
+### Changed
 
 - Set `Suggest Widget` focus highlight foreground color to `"#9CDCFE"` from `#2996DE70`
 
@@ -145,6 +156,8 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 <!-- Versions -->
 
+[0.2.4]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.4
+[0.2.3]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.3
 [0.2.1]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.1
 [0.2.0]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.0
 [0.1.8]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.1.8
