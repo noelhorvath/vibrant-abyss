@@ -7,17 +7,17 @@
 
     "commandCenter.activeBackground": "#000000",
     "commandCenter.activeBorder": "#000000",
-    "commandCenter.activeForeground": "#CCCCCC",
+    "commandCenter.activeForeground": "#DEDEDE",
     "commandCenter.background": "#000000",
     "commandCenter.border": "#000000",
-    "commandCenter.foreground": "#BBBBBB",
+    "commandCenter.foreground": "#BEBEBE",
     "commandCenter.inactiveBorder": "#000000",
-    "commandCenter.inactiveForeground": "#CCCCCC",
+    "commandCenter.inactiveForeground": "#9C9C9C",
 
     "debugConsole.infoForeground": "#5EC7FF",
     "debugConsole.warningForeground": "#E7D427",
     "debugConsole.errorForeground": "#FF6439",
-    "debugConsole.sourceForeground": "#D4D4D4",
+    "debugConsole.sourceForeground": "#DEDEDE",
     "debugConsoleInputIcon.foreground": "#5EC7FF",
 
     "debugTokenExpression.boolean": "#5EC7FF",
@@ -37,7 +37,7 @@
     "debugIcon.stepOutForeground": "#5EC7FF",
 
     "editor.background": "#000000",
-    "editor.foreground": "#D4D4D4",
+    "editor.foreground": "#DEDEDE",
 
     "editor.findMatchBackground": "#FFEE0030",
     "editor.findMatchBorder": "#FFEE00",
@@ -115,10 +115,10 @@
 
     "sideBar.background": "#000000",
     "sideBar.border": "#000000",
-    "sideBar.foreground": "#D4D4D4",
+    "sideBar.foreground": "#DEDEDE",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.border": "#CCCCCC33",
-    "sideBarTitle.foreground": "#D4D4D4",
+    "sideBarTitle.foreground": "#DEDEDE",
 
     "statusBar.background": "#000000",
     "statusBar.foreground": "#CCCCCC",
@@ -148,7 +148,7 @@
     "titleBar.activeForeground": "#CCCCCC",
     "titleBar.border": "#000000",
     "titleBar.inactiveBackground": "#000000",
-    "titleBar.inactiveForeground": "#CCCCCC",
+    "titleBar.inactiveForeground": "#9C9C9C",
 
     "keybindingLabel.background": "#000000",
 
@@ -174,7 +174,7 @@
     "gitDecoration.untrackedResourceForeground": "#5FD789",
 
     "terminal.background": "#000000",
-    "terminal.foreground": "#D4D4D4",
+    "terminal.foreground": "#DEDEDE",
     "terminalCursor.foreground": "#4EC1FB",
     "terminalCursor.background": "#000000",
     "terminal.selectionBackground": "#2996DE70",
@@ -185,7 +185,7 @@
     "terminal.ansiGreen": "#13A10E",
     "terminal.ansiMagenta": "#FE77EF",
     "terminal.ansiRed": "#FF6439",
-    "terminal.ansiWhite": "#D4D4D4",
+    "terminal.ansiWhite": "#DEDEDE",
     "terminal.ansiYellow": "#E7D427",
 
     "terminal.ansiBrightBlack": "#666666",
@@ -441,7 +441,7 @@
     {
       "scope": [ "meta.template.expression" ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#DEDEDE"
       }
     },
     {
@@ -460,7 +460,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#DEDEDE"
       }
     },
     {
@@ -514,7 +514,7 @@
         "storage.modifier.package.java"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#DEDEDE"
       }
     },
     {
