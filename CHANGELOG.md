@@ -5,6 +5,20 @@ All notable changes to `vibrant-abyss` crate will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
+## [0.3.0]
+
+### Added
+
+- Add customization for `Terminal` and `Colorized brackets`
+- Add foreground color for `List` active selection
+
+### Changed
+
+- Remove comments from theme `.json` file
+- Update screenshots
+- Reorder screenshot sections in `README.md`
+- Update theme description in `README.md`
+
 ## [0.2.4]
 
 ### Added
@@ -156,6 +170,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 <!-- Versions -->
 
+[0.3.0]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.3.0
 [0.2.4]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.4
 [0.2.3]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.3
 [0.2.1]: https://github.com/noelhorvath/vibrant-abyss/releases/tag/v0.2.1

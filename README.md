@@ -18,8 +18,7 @@
 
 ## Description
 
-Vibrant Abyss is a Visual Studio Code dark theme designed for optimal display
-on high contrast screens.
+**Vibrant Abyss** is a high-contrast **Visual Studio Code** theme designed for optimal clarity and readability against a true pitch-black background.
 
 ## Features
 
@@ -32,14 +31,6 @@ on high contrast screens.
 
 ## Screenshots
 
-### Rust
-
-![Rust code in editor](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust.png?raw=true)
-
-<br>
-
-![Debugging rust code](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust-debug.png?raw=true)
-
 ### C#
 
 ![C# code in editor](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/csharp.png?raw=true)
@@ -47,6 +38,14 @@ on high contrast screens.
 <br>
 
 ![Debugging C# code](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/csharp-debug.png?raw=true)
+
+### Rust
+
+![Rust code in editor](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust.png?raw=true)
+
+<br>
+
+![Debugging Rust code](https://github.com/noelhorvath/vibrant-abyss/blob/main/assets/screenshots/rust-debug.png?raw=true)
 
 ## Installation
 
