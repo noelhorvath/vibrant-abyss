@@ -27,7 +27,7 @@
       {
         "label": "Vibrant Abyss",
         "uiTheme": "vs-dark",
-        "path": "./themes/vibrant-abyss.json"
+        "path": "./themes/vibrant-abyss-vscode.json"
       }
     ]
   },
