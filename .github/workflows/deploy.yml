@@ -49,8 +49,3 @@ jobs:
           allowUpdates: true
           makeLatest: true
           artifacts: "./${{ env.EXT_FILE }}"
-      - name: Update changelog
-        uses: dropseed/changerelease@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          changelog: CHANGELOG.md
