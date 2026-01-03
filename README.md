@@ -10,15 +10,15 @@
 
 ## Table of contents
 
-* [Description](#description)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Installation](#installation)
-* [License](#license)
+- [Description](#description)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [License](#license)
 
 ## Description
 
-**Vibrant Abyss** is a high-contrast **Visual Studio Code** theme designed for optimal clarity and readability against a true pitch-black background.
+**Vibrant Abyss** is a dark theme designed for optimal clarity and readability on pitch-black background by using vibrant colors.
 
 ## Features
 
@@ -26,8 +26,8 @@
 - Pitch black
 - Vibrant colors
 - Tailored for
-    - `C#`
-    - `Rust`
+  - `C#`
+  - `Rust`
 
 ## Screenshots
 
@@ -51,11 +51,11 @@
 
 You can obtain the theme extension in the following ways:
 
-* Download and install one of the extension files from [Releases]
-* Install from [Visual Studio Marketplace][Marketplace]
-* Execute `ext install noelhorvath.vibrant-abyss` in the `Command Center`
+- Download and install one of the extension files from [Releases]
+- Install from [Visual Studio Marketplace][Marketplace]
+- Execute `ext install noelhorvath.vibrant-abyss` in the `Command Center`
   (`Ctrl + P`)
-* [Build from source][Manual]
+- [Build from source][Manual]
 
 ## License
 
