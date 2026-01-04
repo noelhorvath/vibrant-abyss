@@ -22,6 +22,7 @@ jobs:
             VERSION="${TAG#v}"
             echo "tag=$TAG" >> $GITHUB_OUTPUT
             echo "version=$VERSION" >> $GITHUB_OUTPUT
+            echo "Found tag: $TAG and version: $VERSION"
           else
             echo "No version pattern found in latest commit message. Skipping."
             exit 0
@@ -30,7 +31,7 @@ jobs:
   prepare-release:
     name: "Prepare release"
     needs: extract-version
-    if: needs.extract-version.outputs.version != ''
+    if: needs.extract-version.outputs.version
     runs-on: ubuntu-latest
     permissions:
       contents: write
