@@ -141,8 +141,6 @@
     "gitDecoration.untrackedResourceForeground": "#5fd789",
     "terminal.background": "#000000",
     "terminal.foreground": "#dedede",
-    "terminalCursor.foreground": "#4ec1fb",
-    "terminalCursor.background": "#000000",
     "terminal.selectionBackground": "#34a7ff70",
     "terminal.ansiBlack": "#1a1a1a",
     "terminal.ansiBlue": "#34a7ff",
@@ -159,7 +157,9 @@
     "terminal.ansiBrightMagenta": "#fe77ef",
     "terminal.ansiBrightRed": "#ff8566",
     "terminal.ansiBrightYellow": "#ffee00",
-    "terminal.ansiBrightWhite": "#dedede"
+    "terminal.ansiBrightWhite": "#dedede",
+    "terminalCursor.foreground": "#4ec1fb",
+    "terminalCursor.background": "#000000"
   },
   "tokenColors": [
     {
