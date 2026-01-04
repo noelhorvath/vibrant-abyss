@@ -139,6 +139,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#ffb74a",
     "gitDecoration.submoduleResourceForeground": "#9cdcfe",
     "gitDecoration.untrackedResourceForeground": "#5fd789",
+    "ports.iconRunningProcessForeground": "#26e019",
     "terminal.background": "#000000",
     "terminal.foreground": "#dedede",
     "terminal.selectionBackground": "#34a7ff70",
