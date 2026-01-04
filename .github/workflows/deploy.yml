@@ -56,7 +56,7 @@ jobs:
 
   deploy:
     name: Deploy
-    needs: prepare-release
+    needs: [extract-version, prepare-release]
     if: needs.prepare-release.result == 'success'
     permissions:
       contents: write
