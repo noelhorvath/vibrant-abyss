@@ -42,7 +42,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add package.json
-          git commit -m "Release ${{ steps.get_version.outputs.full_tag }}"
+          git commit -m "Release ${{ tag }}"
 
           git tag ${{ steps.get_version.outputs.full_tag }}
-          git push origin main && git push --tags
+          git push origin main && git push origin main --tags
